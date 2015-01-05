@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:020461_0000_0FAF0A70083CB808"/>
-            <pb facs="tcp:020461_0001_0FAF0A70AED2C160"/>
+            <pb facs="unknown:020461_0000_0FAF0A70083CB808"/>
+            <pb facs="unknown:020461_0001_0FAF0A70AED2C160"/>
             <p>LITTLE ROBIN RED BREAST; A COLLECTION OF PRETTY SONGS, For the INSTRUCTION and AMUSEMENT of CHILDREN: ENTIRELY NEW.</p>
             <p>THE FIRST <hi>WORCESTER</hi> EDITION.</p>
             <p>WORCESTER, (MASSACHUSETTS) PRINTED BY ISAIAH THOMAS, AND SOLD AT HIS BOOK-STORE. MDCCLXXXVI.</p>
@@ -122,7 +122,7 @@
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:020461_0002_0FAF0A71993A6790"/>
+            <pb facs="unknown:020461_0002_0FAF0A71993A6790"/>
             <head>SONGS for CHILDREN.</head>
             <p>
                <figure/>
@@ -139,7 +139,7 @@
                      </gap>, or play.</l>
                </lg>
                <lg n="2">
-                  <pb n="2" facs="tcp:020461_0003_0FAF0A722DD4CDA8"/>
+                  <pb n="2" facs="unknown:020461_0003_0FAF0A722DD4CDA8"/>
                   <head>II.</head>
                   <l>Do not uſe <hi>"the Sluggard's guiſe,</hi>
                   </l>
@@ -162,7 +162,7 @@
                   <l>When ſhe ſees the morning gay.</l>
                </lg>
                <lg n="5">
-                  <pb n="3" facs="tcp:020461_0003_0FAF0A722DD4CDA8"/>
+                  <pb n="3" facs="unknown:020461_0003_0FAF0A722DD4CDA8"/>
                   <head>V.</head>
                   <l>Don't you hear the gentle dove</l>
                   <l>Cooing in the neighb'ring grove?</l>
@@ -184,7 +184,7 @@
                   <l>Don't deſerve the ſight of day.</l>
                </lg>
                <lg n="8">
-                  <pb n="4" facs="tcp:020461_0004_0FAF0A748CF6B9C0"/>
+                  <pb n="4" facs="unknown:020461_0004_0FAF0A748CF6B9C0"/>
                   <head>VIII.</head>
                   <l>Let the naughty children lie,</l>
                   <l>You are no ſuch LULLABY;</l>
@@ -205,7 +205,7 @@
                   <figure/>
                </p>
                <lg n="1">
-                  <pb n="5" facs="tcp:020461_0004_0FAF0A748CF6B9C0"/>
+                  <pb n="5" facs="unknown:020461_0004_0FAF0A748CF6B9C0"/>
                   <head>I.</head>
                   <l>COME Harry and Polly, and</l>
                   <l>Billy anti Dolly,</l>
@@ -215,7 +215,7 @@
                   <l>And ramble a little from home.</l>
                </lg>
                <lg n="2">
-                  <pb n="6" facs="tcp:020461_0005_0FAF0A757A723820"/>
+                  <pb n="6" facs="unknown:020461_0005_0FAF0A757A723820"/>
                   <head>II.</head>
                   <l>We ſhall all be delighted, and none will be ſlighted,</l>
                   <l>Our nurſes too with us ſhall come;</l>
@@ -230,7 +230,7 @@
                   <l>We ſhall dream of them when we go home.</l>
                </lg>
                <lg n="4">
-                  <pb n="7" facs="tcp:020461_0005_0FAF0A757A723820"/>
+                  <pb n="7" facs="unknown:020461_0005_0FAF0A757A723820"/>
                   <head>IV.</head>
                   <l>Our joys thus o'erflowing, no cares nor ills knowing,</l>
                   <l>As none that are <hi>naughty</hi> muſt come;</l>
@@ -239,7 +239,7 @@
                </lg>
             </div>
             <div n="3" type="song">
-               <pb n="8" facs="tcp:020461_0006_0FAF0A76D0AC5750"/>
+               <pb n="8" facs="unknown:020461_0006_0FAF0A76D0AC5750"/>
                <head>SONG III.</head>
                <p>
                   <figure/>
@@ -252,7 +252,7 @@
                   <l>Deareſt! were not made for you.</l>
                </lg>
                <lg n="2">
-                  <pb n="9" facs="tcp:020461_0006_0FAF0A76D0AC5750"/>
+                  <pb n="9" facs="unknown:020461_0006_0FAF0A76D0AC5750"/>
                   <head>II.</head>
                   <l>No!for you our darling are,</l>
                   <l>By your mother fondly preſt;</l>
@@ -282,7 +282,7 @@
                </lg>
             </div>
             <div n="4" type="song">
-               <pb n="10" facs="tcp:020461_0007_0FAF0A776F414A40"/>
+               <pb n="10" facs="unknown:020461_0007_0FAF0A776F414A40"/>
                <head>SONG IV.</head>
                <p>
                   <figure/>
@@ -295,7 +295,7 @@
                   <l>But he ſhould not be too bold.</l>
                </lg>
                <lg n="2">
-                  <pb n="11" facs="tcp:020461_0007_0FAF0A776F414A40"/>
+                  <pb n="11" facs="unknown:020461_0007_0FAF0A776F414A40"/>
                   <head>II.</head>
                   <l>In the woods had you firſt found him,</l>
                   <l>When he warbled from the ſpray;</l>
@@ -318,7 +318,7 @@
                </lg>
             </div>
             <div n="5" type="song">
-               <pb n="12" facs="tcp:020461_0008_0FAF0A782EB152C8"/>
+               <pb n="12" facs="unknown:020461_0008_0FAF0A782EB152C8"/>
                <head>SONG V.</head>
                <p>
                   <figure/>
@@ -331,7 +331,7 @@
                   <l>Alas! all thoſe pleaſures are gone.</l>
                </lg>
                <lg n="2">
-                  <pb n="13" facs="tcp:020461_0008_0FAF0A782EB152C8"/>
+                  <pb n="13" facs="unknown:020461_0008_0FAF0A782EB152C8"/>
                   <head>II.</head>
                   <l>The angler too ſure plies the bait,</l>
                   <l>Contriv'd to deprive him of breath;</l>
@@ -347,7 +347,7 @@
                </lg>
             </div>
             <div n="6" type="song">
-               <pb n="14" facs="tcp:020461_0009_0FAF0A790A07F288"/>
+               <pb n="14" facs="unknown:020461_0009_0FAF0A790A07F288"/>
                <head>SONG VI.</head>
                <p>
                   <figure/>
@@ -360,7 +360,7 @@
                   <l>Yet their darling did never know want.</l>
                </lg>
                <lg n="2">
-                  <pb n="15" facs="tcp:020461_0009_0FAF0A790A07F288"/>
+                  <pb n="15" facs="unknown:020461_0009_0FAF0A790A07F288"/>
                   <head>II.</head>
                   <l>When SALLY grew bigger ſhe went to a ſchool,</l>
                   <l>And there, as her play-fellows tell,</l>
@@ -375,7 +375,7 @@
                   <l>And took her wherever ſhe went.</l>
                </lg>
                <lg n="4">
-                  <pb n="16" facs="tcp:020461_0010_0FAF0A7BB34D2DC0"/>
+                  <pb n="16" facs="unknown:020461_0010_0FAF0A7BB34D2DC0"/>
                   <head>IV.</head>
                   <l>Now while SALLY was good ſhe liv'd like a queen;</l>
                   <l>What a pity ſhe does not ſo ſtill!</l>
@@ -390,7 +390,7 @@
                   <l>And her mother has broken her heart.</l>
                </lg>
                <lg n="6">
-                  <pb n="17" facs="tcp:020461_0010_0FAF0A7BB34D2DC0"/>
+                  <pb n="17" facs="unknown:020461_0010_0FAF0A7BB34D2DC0"/>
                   <head>VI.</head>
                   <l>Thus, now SALLY is naughty, ſhe's hated by all,</l>
                   <l>And, if ſhe don't mend in her ways,</l>
@@ -406,7 +406,7 @@
                </lg>
             </div>
             <div n="7" type="song">
-               <pb n="18" facs="tcp:020461_0011_0FAF0A7CA1CCD8E8"/>
+               <pb n="18" facs="unknown:020461_0011_0FAF0A7CA1CCD8E8"/>
                <head>SONG VII.</head>
                <p>
                   <figure/>
@@ -419,7 +419,7 @@
                   <l>by leſſens which prudence inſpires.</l>
                </lg>
                <lg n="2">
-                  <pb n="19" facs="tcp:020461_0011_0FAF0A7CA1CCD8E8"/>
+                  <pb n="19" facs="unknown:020461_0011_0FAF0A7CA1CCD8E8"/>
                   <head>II.</head>
                   <l>The flow'r is all gay to the ſight,</l>
                   <l>Its bluſh is like that of the morn;</l>
@@ -441,7 +441,7 @@
                   <l>The roſe is both uſeful and fair.</l>
                </lg>
                <lg n="5">
-                  <pb n="20" facs="tcp:020461_0012_0FAF0A7CC0DA0868"/>
+                  <pb n="20" facs="unknown:020461_0012_0FAF0A7CC0DA0868"/>
                   <head>V.</head>
                   <l>But yet ev'ry ſweet has its ſour.</l>
                   <l>And all things on earth ſtill muſt cloy;</l>
@@ -457,7 +457,7 @@
                </lg>
             </div>
             <div n="8" type="song">
-               <pb n="21" facs="tcp:020461_0012_0FAF0A7CC0DA0868"/>
+               <pb n="21" facs="unknown:020461_0012_0FAF0A7CC0DA0868"/>
                <head>SONG VIII.</head>
                <p>
                   <figure/>
@@ -470,7 +470,7 @@
                   <l>And make holiday while we may.</l>
                </lg>
                <lg n="2">
-                  <pb n="22" facs="tcp:020461_0013_0FAF0A7DD701DCB0"/>
+                  <pb n="22" facs="unknown:020461_0013_0FAF0A7DD701DCB0"/>
                   <head>II.</head>
                   <l>'TIs becauſe we've been good that ſuch pleaſures we taſte,</l>
                   <l>Our'eſſons ſo ſoon we have learn'd;</l>
@@ -485,7 +485,7 @@
                   <l>Of boys that from learning will run.</l>
                </lg>
                <lg n="4">
-                  <pb n="23" facs="tcp:020461_0013_0FAF0A7DD701DCB0"/>
+                  <pb n="23" facs="unknown:020461_0013_0FAF0A7DD701DCB0"/>
                   <head>IV.</head>
                   <l>Little Charley and Jemmy their pa<g ref="char:EOLhyphen"/>rents obey,</l>
                   <l>And Betſey's ſo good, that I find.</l>
@@ -500,7 +500,7 @@
                   <l>Will be happy and all will agree.</l>
                </lg>
                <lg n="6">
-                  <pb n="24" facs="tcp:020461_0014_0FAF0A7E3AA1FAB0"/>
+                  <pb n="24" facs="unknown:020461_0014_0FAF0A7E3AA1FAB0"/>
                   <head>VI.</head>
                   <l>And now to the pye-houſe you'll all take a race;</l>
                   <l>But ſtop a while 'till you ſtart fair;</l>
@@ -509,7 +509,7 @@
                </lg>
             </div>
             <div n="9" type="song">
-               <pb n="25" facs="tcp:020461_0014_0FAF0A7E3AA1FAB0"/>
+               <pb n="25" facs="unknown:020461_0014_0FAF0A7E3AA1FAB0"/>
                <head>SONG IX.</head>
                <p>
                   <figure/>
@@ -522,7 +522,7 @@
                   <l>That he can't go out to-day.</l>
                </lg>
                <lg n="2">
-                  <pb n="26" facs="tcp:020461_0015_0FAF0A7EED660648"/>
+                  <pb n="26" facs="unknown:020461_0015_0FAF0A7EED660648"/>
                   <head>II.</head>
                   <l>See, now, at the door I ſpy him,</l>
                   <l>He for very ſpite and ſhame,</l>
@@ -552,7 +552,7 @@
                </lg>
             </div>
             <div n="10" type="song">
-               <pb n="27" facs="tcp:020461_0015_0FAF0A7EED660648"/>
+               <pb n="27" facs="unknown:020461_0015_0FAF0A7EED660648"/>
                <head>SONG X.</head>
                <p>
                   <figure/>
@@ -566,7 +566,7 @@
                   <l>ſuch is a country fair, boys.</l>
                </lg>
                <lg n="2">
-                  <pb n="28" facs="tcp:020461_0016_0FAF0A7FE1ABE750"/>
+                  <pb n="28" facs="unknown:020461_0016_0FAF0A7FE1ABE750"/>
                   <head>II.</head>
                   <l>People ſtill on people preſſing,</l>
                   <l>Players and their puppets dreſſing;</l>
@@ -583,7 +583,7 @@
                   <l>Such is a country fair, boys.</l>
                </lg>
                <lg n="4">
-                  <pb n="29" facs="tcp:020461_0016_0FAF0A7FE1ABE750"/>
+                  <pb n="29" facs="unknown:020461_0016_0FAF0A7FE1ABE750"/>
                   <head>IV.</head>
                   <l>Here are ribbands, caps, and laces,</l>
                   <l>Cakes and toys in other places;</l>
@@ -601,7 +601,7 @@
                </lg>
             </div>
             <div n="11" type="song">
-               <pb n="30" facs="tcp:020461_0017_0FAF0A822F3E44D0"/>
+               <pb n="30" facs="unknown:020461_0017_0FAF0A822F3E44D0"/>
                <head>SONG XI.</head>
                <p>
                   <figure/>
@@ -619,7 +619,7 @@
                   </l>
                </lg>
                <lg n="2">
-                  <pb n="31" facs="tcp:020461_0017_0FAF0A822F3E44D0"/>
+                  <pb n="31" facs="unknown:020461_0017_0FAF0A822F3E44D0"/>
                   <head>II.</head>
                   <l>There once was a BUTTERFLY gaudy and vain.</l>
                   <l>Who ſpy'd a poor mole creeping o<g ref="char:EOLhyphen"/>ver the plain,</l>
@@ -644,7 +644,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="32" facs="tcp:020461_0018_0FAF0A8368BA1DF0"/>
+                  <pb n="32" facs="unknown:020461_0018_0FAF0A8368BA1DF0"/>
                   <head>IV.</head>
                   <l>But a bird in his ſwiftneſs now ruſh'd thro' the air,</l>
                   <l>And ſoon made a prey of the inſect ſo fair;</l>
@@ -670,7 +670,7 @@
                </lg>
             </div>
             <div n="12" type="song">
-               <pb n="33" facs="tcp:020461_0018_0FAF0A8368BA1DF0"/>
+               <pb n="33" facs="unknown:020461_0018_0FAF0A8368BA1DF0"/>
                <head>SONG XII.</head>
                <p>
                   <figure/>
@@ -683,7 +683,7 @@
                   <l>And has often made us gay.</l>
                </lg>
                <lg n="2">
-                  <pb n="34" facs="tcp:020461_0019_0FAF0A83884AC1C8"/>
+                  <pb n="34" facs="unknown:020461_0019_0FAF0A83884AC1C8"/>
                   <head>II.</head>
                   <l>But 'twas wild and would be ſtray<g ref="char:EOLhyphen"/>ing,</l>
                   <l>Never could endure its cage;</l>
@@ -705,7 +705,7 @@
                   <l>He was by himſelf betray'd.</l>
                </lg>
                <lg n="5">
-                  <pb n="35" facs="tcp:020461_0019_0FAF0A83884AC1C8"/>
+                  <pb n="35" facs="unknown:020461_0019_0FAF0A83884AC1C8"/>
                   <head>V.</head>
                   <l>Had he ſtay'd as friends would have him</l>
                   <l>In his cage or miſtreſs' room,</l>
@@ -721,7 +721,7 @@
                </lg>
             </div>
             <div n="13" type="song">
-               <pb n="36" facs="tcp:020461_0020_0FAF0A84903C3830"/>
+               <pb n="36" facs="unknown:020461_0020_0FAF0A84903C3830"/>
                <head>SONG XIII.</head>
                <p>
                   <figure/>
@@ -734,7 +734,7 @@
                   <l>To an infant's what joys can compare?</l>
                </lg>
                <lg n="2">
-                  <pb n="37" facs="tcp:020461_0020_0FAF0A84903C3830"/>
+                  <pb n="37" facs="unknown:020461_0020_0FAF0A84903C3830"/>
                   <head>II.</head>
                   <l>So eaſy the bliſe that we find,</l>
                   <l>While none are our care or our woe;</l>
@@ -756,7 +756,7 @@
                   <l>And happily ſpend the fleet hour.</l>
                </lg>
                <lg n="5">
-                  <pb n="38" facs="tcp:020461_0021_0FAF0A84F8FBB908"/>
+                  <pb n="38" facs="unknown:020461_0021_0FAF0A84F8FBB908"/>
                   <head>V.</head>
                   <l>At marbles, at hoop, or at ball,</l>
                   <l>Or whatever the ſports that de<g ref="char:EOLhyphen"/>light;</l>
@@ -772,7 +772,7 @@
                </lg>
             </div>
             <div n="14" type="song">
-               <pb n="39" facs="tcp:020461_0021_0FAF0A84F8FBB908"/>
+               <pb n="39" facs="unknown:020461_0021_0FAF0A84F8FBB908"/>
                <head>SONG XIV.</head>
                <p>
                   <figure/>
@@ -785,7 +785,7 @@
                   <l>Aſk for leave, and come to play.</l>
                </lg>
                <lg n="2">
-                  <pb n="40" facs="tcp:020461_0022_0FAF0A85B2F32AC8"/>
+                  <pb n="40" facs="unknown:020461_0022_0FAF0A85B2F32AC8"/>
                   <head>II.</head>
                   <l>Sun-ſhine, to be ſure, is glaring,</l>
                   <l>By the day we work and read;</l>
@@ -807,7 +807,7 @@
                   <l>Yet are ſweetly brighten'd here.</l>
                </lg>
                <lg n="5">
-                  <pb n="41" facs="tcp:020461_0022_0FAF0A85B2F32AC8"/>
+                  <pb n="41" facs="unknown:020461_0022_0FAF0A85B2F32AC8"/>
                   <head>V.</head>
                   <l>As each little paſtime varies,</l>
                   <l>By the pale, uncertain light;</l>
@@ -823,7 +823,7 @@
                </lg>
             </div>
             <div n="15" type="song">
-               <pb n="42" facs="tcp:020461_0023_0FAF0A8688873E28"/>
+               <pb n="42" facs="unknown:020461_0023_0FAF0A8688873E28"/>
                <head>SONG XV.</head>
                <p>
                   <figure/>
@@ -836,7 +836,7 @@
                   <l>What freſh beauties there can riſe?</l>
                </lg>
                <lg n="2">
-                  <pb n="43" facs="tcp:020461_0023_0FAF0A8688873E28"/>
+                  <pb n="43" facs="unknown:020461_0023_0FAF0A8688873E28"/>
                   <head>II.</head>
                   <l>'Tis your face that you are viewing</l>
                   <l>Pretty infant, full of play;</l>
@@ -858,7 +858,7 @@
                   <l>Moſt by all to be deſir'd.</l>
                </lg>
                <lg n="5">
-                  <pb n="44" facs="tcp:020461_0024_0FAF0A8739D74BF8"/>
+                  <pb n="44" facs="unknown:020461_0024_0FAF0A8739D74BF8"/>
                   <head>V.</head>
                   <l>If the glaſs, is thus delighting,</l>
                   <l>Where a pretty face is ſeen;</l>
@@ -874,7 +874,7 @@
                </lg>
             </div>
             <div n="16" type="song">
-               <pb n="45" facs="tcp:020461_0024_0FAF0A8739D74BF8"/>
+               <pb n="45" facs="unknown:020461_0024_0FAF0A8739D74BF8"/>
                <head>SONG XVI.</head>
                <p>
                   <figure/>
@@ -887,7 +887,7 @@
                   <l>Innocent and pretty.</l>
                </lg>
                <lg n="2">
-                  <pb n="46" facs="tcp:020461_0025_0FAF0A899C1521F8"/>
+                  <pb n="46" facs="unknown:020461_0025_0FAF0A899C1521F8"/>
                   <head>II.</head>
                   <l>Without diſguiſe,</l>
                   <l>Art or lies,</l>
@@ -909,7 +909,7 @@
                   <l>Charley ran with Kitty.</l>
                </lg>
                <lg n="5">
-                  <pb n="47" facs="tcp:020461_0025_0FAF0A899C1521F8"/>
+                  <pb n="47" facs="unknown:020461_0025_0FAF0A899C1521F8"/>
                   <head>V.</head>
                   <l>In the ſhade,</l>
                   <l>Rings we made,</l>
@@ -927,7 +927,7 @@
                </lg>
             </div>
             <div n="17" type="song">
-               <pb n="48" facs="tcp:020461_0026_0FAF0A8A8BA2A728"/>
+               <pb n="48" facs="unknown:020461_0026_0FAF0A8A8BA2A728"/>
                <head>SONG XVII.</head>
                <p>
                   <figure/>
@@ -940,7 +940,7 @@
                   <l>See good boys go home at Noon.</l>
                </lg>
                <lg n="2">
-                  <pb n="49" facs="tcp:020461_0026_0FAF0A8A8BA2A728"/>
+                  <pb n="49" facs="unknown:020461_0026_0FAF0A8A8BA2A728"/>
                   <head>II.</head>
                   <l>Naughty children ſometimes ſtay,</l>
                   <l>Kept from dinner and from play;</l>
@@ -962,7 +962,7 @@
                   <l>Dolly tends her cleanly pail!</l>
                </lg>
                <lg n="5">
-                  <pb n="50" facs="tcp:020461_0027_0FAF0A8B777D7D78"/>
+                  <pb n="50" facs="unknown:020461_0027_0FAF0A8B777D7D78"/>
                   <head>V.</head>
                   <l>Don't you ſee the uſeful cow?</l>
                   <l>Don't you hear the creature low?</l>
@@ -978,7 +978,7 @@
                </lg>
             </div>
             <div n="18" type="song">
-               <pb n="51" facs="tcp:020461_0027_0FAF0A8B777D7D78"/>
+               <pb n="51" facs="unknown:020461_0027_0FAF0A8B777D7D78"/>
                <head>SONG XVIII.</head>
                <p>
                   <figure/>
@@ -992,7 +992,7 @@
                   <l>We ſha1l find,</l>
                   <l>What is moſt to our mind,</l>
                   <l>
-                     <pb n="52" facs="tcp:020461_0028_0FAF0A8BAED91A60"/>A boy that's ſo good, he can never have foes,</l>
+                     <pb n="52" facs="unknown:020461_0028_0FAF0A8BAED91A60"/>A boy that's ſo good, he can never have foes,</l>
                   <l>But pleaſure he meets with where<g ref="char:EOLhyphen"/>ever he goes.</l>
                </lg>
                <lg n="2">
@@ -1007,7 +1007,7 @@
                   <l>But ſmiles muſt attend her where<g ref="char:EOLhyphen"/>ver ſhe goes.</l>
                </lg>
                <lg n="3">
-                  <pb n="53" facs="tcp:020461_0028_0FAF0A8BAED91A60"/>
+                  <pb n="53" facs="unknown:020461_0028_0FAF0A8BAED91A60"/>
                   <head>III.</head>
                   <l>So come all away,</l>
                   <l>To our meeting ſo gay,</l>
@@ -1020,7 +1020,7 @@
                </lg>
             </div>
             <div n="19" type="song">
-               <pb n="54" facs="tcp:020461_0029_0FAF0A8C92309DC0"/>
+               <pb n="54" facs="unknown:020461_0029_0FAF0A8C92309DC0"/>
                <head>SONG XIX.</head>
                <p>
                   <figure/>
@@ -1033,7 +1033,7 @@
                   <l>What evils alas! you purſue.</l>
                </lg>
                <lg n="2">
-                  <pb n="55" facs="tcp:020461_0029_0FAF0A8C92309DC0"/>
+                  <pb n="55" facs="unknown:020461_0029_0FAF0A8C92309DC0"/>
                   <head>II.</head>
                   <l>If abroad you too careleſsly play,</l>
                   <l>What troubles you oftentimes meet!</l>
@@ -1055,7 +1055,7 @@
                   <l>My dear, 'tiS the better for you.</l>
                </lg>
                <lg n="5">
-                  <pb n="56" facs="tcp:020461_0030_0FAF0A8D5863BE70"/>
+                  <pb n="56" facs="unknown:020461_0030_0FAF0A8D5863BE70"/>
                   <head>V.</head>
                   <l>'T will be time enough many a long year,</l>
                   <l>For you through the wide world to roam;</l>
@@ -1071,7 +1071,7 @@
                </lg>
             </div>
             <div n="20" type="song">
-               <pb n="57" facs="tcp:020461_0030_0FAF0A8D5863BE70"/>
+               <pb n="57" facs="unknown:020461_0030_0FAF0A8D5863BE70"/>
                <head>SONG XX.</head>
                <p>
                   <figure/>
@@ -1084,7 +1084,7 @@
                   <l>Though you <hi>laugh</hi> you ſoon may cry.</l>
                </lg>
                <lg n="2">
-                  <pb n="58" facs="tcp:020461_0031_0FAF11640EBF4C90"/>
+                  <pb n="58" facs="unknown:020461_0031_0FAF11640EBF4C90"/>
                   <head>II.</head>
                   <l>But a Lott'ry, boys, this life is,</l>
                   <l>Moſt will loſe, though all muſt play;</l>
@@ -1114,7 +1114,7 @@
                </lg>
             </div>
             <div n="21" type="song">
-               <pb n="59" facs="tcp:020461_0031_0FAF11640EBF4C90"/>
+               <pb n="59" facs="unknown:020461_0031_0FAF11640EBF4C90"/>
                <head>SONG XXI.</head>
                <p>
                   <figure/>
@@ -1126,7 +1126,7 @@
                   <l>It is young CHARLEY's birth-day.</l>
                   <l>We all muſt agree,</l>
                   <l>
-                     <pb n="60" facs="tcp:020461_0032_0FAF116570B1C260"/>To viſit our play-mate good hu<g ref="char:EOLhyphen"/>mour'd and free.</l>
+                     <pb n="60" facs="unknown:020461_0032_0FAF116570B1C260"/>To viſit our play-mate good hu<g ref="char:EOLhyphen"/>mour'd and free.</l>
                   <l>While he invites,</l>
                   <l>And pleaſure delights,</l>
                   <l>Who'll be ſo happy, ſo happy as we?</l>
@@ -1142,7 +1142,7 @@
                   <l>Who'll be ſo happy, ſo happy as we?</l>
                </lg>
                <lg n="3">
-                  <pb n="61" facs="tcp:020461_0032_0FAF116570B1C260"/>
+                  <pb n="61" facs="unknown:020461_0032_0FAF116570B1C260"/>
                   <head>III.</head>
                   <l>'T was CHARLEY that won the firſt prize of good boys,</l>
                   <l>The cockade and medal he wears and enjoys,</l>
@@ -1154,7 +1154,7 @@
                </lg>
             </div>
             <div n="22" type="song">
-               <pb n="62" facs="tcp:020461_0033_0FAF1165EDF20A08"/>
+               <pb n="62" facs="unknown:020461_0033_0FAF1165EDF20A08"/>
                <head>SONG XXII.</head>
                <head type="sub">
                   <hi>The</hi> GOOD BOY's GARLAND.</head>
@@ -1169,7 +1169,7 @@
                   <l>And mother he had none.</l>
                </lg>
                <lg n="2">
-                  <pb n="63" facs="tcp:020461_0033_0FAF1165EDF20A08"/>
+                  <pb n="63" facs="unknown:020461_0033_0FAF1165EDF20A08"/>
                   <head>II.</head>
                   <l>So BILLY was unhappy quite,</l>
                   <l>But ſtill his book he read;</l>
@@ -1191,7 +1191,7 @@
                   <l>He profits by his book.</l>
                </lg>
                <lg n="5">
-                  <pb n="64" facs="tcp:020461_0034_0FAF1166A75D29E8"/>
+                  <pb n="64" facs="unknown:020461_0034_0FAF1166A75D29E8"/>
                   <head>V.</head>
                   <l>Belov'd by all;—A merchant brave,</l>
                   <l>Took BILLY for his clerk;</l>
@@ -1213,7 +1213,7 @@
                   <l>And Would aſſiſt his ſon.</l>
                </lg>
                <lg n="8">
-                  <pb n="65" facs="tcp:020461_0034_0FAF1166A75D29E8"/>
+                  <pb n="65" facs="unknown:020461_0034_0FAF1166A75D29E8"/>
                   <head>VIII.</head>
                   <l>But BILLY wanted none of theſe;</l>
                   <l>With riches of his own,</l>
@@ -1236,7 +1236,7 @@
                </lg>
             </div>
             <div n="23" type="song">
-               <pb n="66" facs="tcp:020461_0035_0FAF1167A16F20B8"/>
+               <pb n="66" facs="unknown:020461_0035_0FAF1167A16F20B8"/>
                <head>SONG XXIII.</head>
                <p>
                   <figure/>
@@ -1249,7 +1249,7 @@
                   <l>Tho' you're ill, ſhe'd make you ſmile.</l>
                </lg>
                <lg n="2">
-                  <pb n="67" facs="tcp:020461_0035_0FAF1167A16F20B8"/>
+                  <pb n="67" facs="unknown:020461_0035_0FAF1167A16F20B8"/>
                   <head>II.</head>
                   <l>But behold in all her pride,</l>
                   <l>Sitting by the fire ſide:</l>
@@ -1272,7 +1272,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="68" facs="tcp:020461_0036_0FAF1168A350DCF0"/>
+                  <pb n="68" facs="unknown:020461_0036_0FAF1168A350DCF0"/>
                   <head>V.</head>
                   <l>Time has all the diff'rence made,</l>
                   <l>The pow'r of Time's in all diſplay'd;</l>
@@ -1288,7 +1288,7 @@
                </lg>
             </div>
             <div n="24" type="song">
-               <pb n="69" facs="tcp:020461_0036_0FAF1168A350DCF0"/>
+               <pb n="69" facs="unknown:020461_0036_0FAF1168A350DCF0"/>
                <head>SONG XXIV.</head>
                <p>
                   <figure/>
@@ -1298,7 +1298,7 @@
                   <l>YE children whom whimſies and follies prplex,</l>
                   <l>Whom paſſions miſguide, and im<g ref="char:EOLhyphen"/>patience vez,</l>
                   <l>
-                     <pb n="70" facs="tcp:020461_0037_0FAF116925C33898"/>Who never with pleaſure your pa<g ref="char:EOLhyphen"/>rents obey,</l>
+                     <pb n="70" facs="unknown:020461_0037_0FAF116925C33898"/>Who never with pleaſure your pa<g ref="char:EOLhyphen"/>rents obey,</l>
                   <l>But are ſtill diſcontented, at reading or play.</l>
                   <l>
                      <hi>Attend to our counſel and we will declare,</hi>
@@ -1321,7 +1321,7 @@
                   </l>
                </lg>
                <lg n="3">
-                  <pb n="71" facs="tcp:020461_0037_0FAF116925C33898"/>
+                  <pb n="71" facs="unknown:020461_0037_0FAF116925C33898"/>
                   <head>III.</head>
                   <l>Be always compliant and do what you're bid,</l>
                   <l>For that is the way you'll never be chid!</l>
@@ -1335,7 +1335,7 @@
                   </l>
                </lg>
                <lg n="4">
-                  <pb n="72" facs="tcp:020461_0038_0FAF116A2E40AAF0"/>
+                  <pb n="72" facs="unknown:020461_0038_0FAF116A2E40AAF0"/>
                   <head>IV.</head>
                   <l>To all your acquaintance be gentle and kind,</l>
                   <l>The advice of your elders be ſure that you mind;</l>
@@ -1349,7 +1349,7 @@
                   </l>
                </lg>
                <lg n="5">
-                  <pb n="73" facs="tcp:020461_0038_0FAF116A2E40AAF0"/>
+                  <pb n="73" facs="unknown:020461_0038_0FAF116A2E40AAF0"/>
                   <head>V.</head>
                   <l>With your play-fellows never be wrangling nor croſs,</l>
                   <l>For they that are wranglers are ſure to have loſs;</l>
@@ -1363,7 +1363,7 @@
                   </l>
                </lg>
                <lg n="6">
-                  <pb n="74" facs="tcp:020461_0039_0FAF116A67975488"/>
+                  <pb n="74" facs="unknown:020461_0039_0FAF116A67975488"/>
                   <head>VI.</head>
                   <l>Do to all, as yourſelf you'd wiſh to be done by,</l>
                   <l>And ſcorn to tell tales, to ſpeak evil, or lie;</l>
@@ -1378,7 +1378,7 @@
                </lg>
             </div>
             <div n="25" type="song">
-               <pb n="75" facs="tcp:020461_0039_0FAF116A67975488"/>
+               <pb n="75" facs="unknown:020461_0039_0FAF116A67975488"/>
                <head>SONG XXV.</head>
                <p>
                   <figure/>
@@ -1391,7 +1391,7 @@
                   <l>The day I mean is Sunday.</l>
                </lg>
                <lg n="2">
-                  <pb n="76" facs="tcp:020461_0040_0FAF116C4A7C8E18"/>
+                  <pb n="76" facs="unknown:020461_0040_0FAF116C4A7C8E18"/>
                   <head>II.</head>
                   <l>To church all decent folks then go,</l>
                   <l>There Charley, Billy, Harry,</l>
@@ -1413,7 +1413,7 @@
                   <l>In valley, mead, and grove.</l>
                </lg>
                <lg n="5">
-                  <pb n="77" facs="tcp:020461_0040_0FAF116C4A7C8E18"/>
+                  <pb n="77" facs="unknown:020461_0040_0FAF116C4A7C8E18"/>
                   <head>V.</head>
                   <l>In winter round the cheerful hearth,</l>
                   <l>They talk of ſports for Monday;</l>
@@ -1429,7 +1429,7 @@
                </lg>
             </div>
             <div n="26" type="song">
-               <pb n="78" facs="tcp:020461_0041_0FAF116D51F59478"/>
+               <pb n="78" facs="unknown:020461_0041_0FAF116D51F59478"/>
                <head>SONG XXVI.</head>
                <p>
                   <figure/>
@@ -1442,7 +1442,7 @@
                   <l>BETSEY is your VALENTINE.</l>
                </lg>
                <lg n="2">
-                  <pb n="79" facs="tcp:020461_0041_0FAF116D51F59478"/>
+                  <pb n="79" facs="unknown:020461_0041_0FAF116D51F59478"/>
                   <head>II.</head>
                   <l>Betſey whom Papa ſo lov'd,</l>
                   <l>Betſey by your friends approv'd;</l>
@@ -1464,7 +1464,7 @@
                   <l>If our Betſey was away.</l>
                </lg>
                <lg n="5">
-                  <pb n="80" facs="tcp:020461_0042_0FAF116D6C6B6A08"/>
+                  <pb n="80" facs="unknown:020461_0042_0FAF116D6C6B6A08"/>
                   <head>V.</head>
                   <l>Then let's haſte with her to play,</l>
                   <l>On this fine and merry day;</l>
@@ -1473,7 +1473,7 @@
                </lg>
             </div>
             <div n="27" type="song">
-               <pb n="81" facs="tcp:020461_0042_0FAF116D6C6B6A08"/>
+               <pb n="81" facs="unknown:020461_0042_0FAF116D6C6B6A08"/>
                <head>SONG XXVII.</head>
                <p>
                   <figure/>
@@ -1486,7 +1486,7 @@
                   <l>And the beſt of cheer ſhall taſte.</l>
                </lg>
                <lg n="2">
-                  <pb n="82" facs="tcp:020461_0043_0FAF116E48B913F8"/>
+                  <pb n="82" facs="unknown:020461_0043_0FAF116E48B913F8"/>
                   <head>II.</head>
                   <l>Thoſe that labour to content ye,</l>
                   <l>Happily for you and me;</l>
@@ -1508,7 +1508,7 @@
                   <l>While the corn the reapers bind.</l>
                </lg>
                <lg n="5">
-                  <pb n="83" facs="tcp:020461_0043_0FAF116E48B913F8"/>
+                  <pb n="83" facs="unknown:020461_0043_0FAF116E48B913F8"/>
                   <head>V.</head>
                   <l>Charley, Billy, Polly, Hetty,</l>
                   <l>View the ſeaſon with a ſmile;</l>
@@ -1524,7 +1524,7 @@
                </lg>
             </div>
             <div n="28" type="song">
-               <pb n="84" facs="tcp:020461_0044_0FAF116F503A76F8"/>
+               <pb n="84" facs="unknown:020461_0044_0FAF116F503A76F8"/>
                <head>SONG XXVIII.</head>
                <p>
                   <figure/>
@@ -1537,7 +1537,7 @@
                   <l>Jackey grew a naughty child.</l>
                </lg>
                <lg n="2">
-                  <pb n="85" facs="tcp:020461_0044_0FAF116F503A76F8"/>
+                  <pb n="85" facs="unknown:020461_0044_0FAF116F503A76F8"/>
                   <head>II.</head>
                   <l>On a ſultry ſummer's day,</l>
                   <l>Jackey would go out to play;</l>
@@ -1559,7 +1559,7 @@
                   <l>Jackey likely to be drown'd.</l>
                </lg>
                <lg n="5">
-                  <pb n="86" facs="tcp:020461_0045_0FAF116FAD7EAAE0"/>
+                  <pb n="86" facs="unknown:020461_0045_0FAF116FAD7EAAE0"/>
                   <head>V.</head>
                   <l>One at length jump'd in to ſave,</l>
                   <l>Jackey from the dreadful wave;</l>
@@ -1575,7 +1575,7 @@
                </lg>
             </div>
             <div n="29" type="song">
-               <pb n="87" facs="tcp:020461_0045_0FAF116FAD7EAAE0"/>
+               <pb n="87" facs="unknown:020461_0045_0FAF116FAD7EAAE0"/>
                <head>SONG XXIX.</head>
                <p>
                   <figure/>
@@ -1588,7 +1588,7 @@
                   <l>And our Sammy's fiddle play.</l>
                </lg>
                <lg n="2">
-                  <pb n="88" facs="tcp:020461_0046_0FAF1170693C2ED0"/>
+                  <pb n="88" facs="unknown:020461_0046_0FAF1170693C2ED0"/>
                   <head>II.</head>
                   <l>They have been abroad to buy,</l>
                   <l>Toys their parents to them gave;</l>
@@ -1610,7 +1610,7 @@
                   <l>He can ſtrike a wond'rous way.</l>
                </lg>
                <lg n="5">
-                  <pb n="89" facs="tcp:020461_0046_0FAF1170693C2ED0"/>
+                  <pb n="89" facs="unknown:020461_0046_0FAF1170693C2ED0"/>
                   <head>V.</head>
                   <l>But theſe ſports are over now,</l>
                   <l>To the winter we muſt yield;</l>
@@ -1626,7 +1626,7 @@
                </lg>
             </div>
             <div n="30" type="song">
-               <pb n="90" facs="tcp:020461_0047_0FAF11727767D680"/>
+               <pb n="90" facs="unknown:020461_0047_0FAF11727767D680"/>
                <head>SONG XXX.</head>
                <p>
                   <figure/>
@@ -1639,7 +1639,7 @@
                   <l>Freſh pleaſures are their own.</l>
                </lg>
                <lg n="2">
-                  <pb n="91" facs="tcp:020461_0047_0FAF11727767D680"/>
+                  <pb n="91" facs="unknown:020461_0047_0FAF11727767D680"/>
                   <head>II.</head>
                   <l>Papa, Mamma, all joyful view,</l>
                   <l>Thoſe pleaſures ſtill improve;</l>
@@ -1661,7 +1661,7 @@
                   <l>All gravely to the fold.</l>
                </lg>
                <lg n="5">
-                  <pb n="92" facs="tcp:020461_0048_0FAF1173757EF628"/>
+                  <pb n="92" facs="unknown:020461_0048_0FAF1173757EF628"/>
                   <head>V.</head>
                   <l>They muſt grow old, if life is ſpar'd,</l>
                   <l>So too muſt you and I;</l>
@@ -1677,7 +1677,7 @@
                </lg>
             </div>
             <div n="31" type="song">
-               <pb n="93" facs="tcp:020461_0048_0FAF1173757EF628"/>
+               <pb n="93" facs="unknown:020461_0048_0FAF1173757EF628"/>
                <head>SONG XXXI.</head>
                <p>
                   <figure/>
@@ -1690,7 +1690,7 @@
                   <l>The boys and girls are pretty.</l>
                </lg>
                <lg n="2">
-                  <pb n="94" facs="tcp:020461_0049_0FAF1174761A7AA8"/>
+                  <pb n="94" facs="unknown:020461_0049_0FAF1174761A7AA8"/>
                   <head>II.</head>
                   <l>There is the wax-work to be ſhown,</l>
                   <l>And lions in the Tower;</l>
@@ -1713,7 +1713,7 @@
                   <l>Unleſs the folks ſhould like you.</l>
                </lg>
                <lg n="5">
-                  <pb n="95" facs="tcp:020461_0049_0FAF1174761A7AA8"/>
+                  <pb n="95" facs="unknown:020461_0049_0FAF1174761A7AA8"/>
                   <head>V.</head>
                   <l>Where'er you go, learn to be good,</l>
                   <l>And you will be rewarded;</l>
@@ -1729,7 +1729,7 @@
                </lg>
             </div>
             <div n="32" type="song">
-               <pb n="96" facs="tcp:020461_0050_0FAF11757584AF00"/>
+               <pb n="96" facs="unknown:020461_0050_0FAF11757584AF00"/>
                <head>SONG XXXII.</head>
                <p>
                   <figure/>
@@ -1739,7 +1739,7 @@
                   <l>'TIS the ſeaſon of mirth, boys, the people around,</l>
                   <l>All flock from their houſes while muſick does ſound;</l>
                   <l>
-                     <pb n="97" facs="tcp:020461_0050_0FAF11757584AF00"/>'Tis the ſeaſon of mirth, boys, of frolick and play,</l>
+                     <pb n="97" facs="unknown:020461_0050_0FAF11757584AF00"/>'Tis the ſeaſon of mirth, boys, of frolick and play,</l>
                   <l>With the ſeaſon returning, returns Lord-May'rs Day.</l>
                </lg>
                <lg n="2">
@@ -1750,7 +1750,7 @@
                   <l>With men, women, and children of ev'ry kind.</l>
                </lg>
                <lg n="3">
-                  <pb n="98" facs="tcp:020461_0051_0FAF1175EE6DBE00"/>
+                  <pb n="98" facs="unknown:020461_0051_0FAF1175EE6DBE00"/>
                   <head>III.</head>
                   <l>See the Man all in armour rides on a fine horſe,</l>
                   <l>And all through the city he takes his full courſe;</l>
@@ -1766,7 +1766,7 @@
                </lg>
             </div>
             <div n="33" type="song">
-               <pb n="99" facs="tcp:020461_0051_0FAF1175EE6DBE00"/>
+               <pb n="99" facs="unknown:020461_0051_0FAF1175EE6DBE00"/>
                <head>SONG XXXIII.</head>
                <p>
                   <figure/>
@@ -1776,7 +1776,7 @@
                   <l>COME ſleep, my ſweet baby, the winds they will rock,</l>
                   <l>Yet nothing ſhall fright you, and nothing ſhall ſhock;</l>
                   <l>
-                     <pb n="100" facs="tcp:020461_0052_0FAF117678C7C440"/>Sweet innocence guards you, on that ſtill depend,</l>
+                     <pb n="100" facs="unknown:020461_0052_0FAF117678C7C440"/>Sweet innocence guards you, on that ſtill depend,</l>
                   <l>For that will make ev'ry one Char<g ref="char:EOLhyphen"/>ley's dear friend.</l>
                </lg>
                <lg n="2">
@@ -1787,7 +1787,7 @@
                   <l>For the wicked and obſtinate never want woe.</l>
                </lg>
                <lg n="3">
-                  <pb n="101" facs="tcp:020461_0052_0FAF117678C7C440"/>
+                  <pb n="101" facs="unknown:020461_0052_0FAF117678C7C440"/>
                   <head>III.</head>
                   <l>But you will ſleep ſoundly, your dreams will be ſweet,</l>
                   <l>And when you awake all your joys be complete;</l>
@@ -1799,12 +1799,12 @@
                   <l>Then ſleep on my baby, the winds as they blow,</l>
                   <l>Shall on you ſtill ſlumbers and ſafety beſtow</l>
                   <l>
-                     <pb n="102" facs="tcp:020461_0053_0FAF11772EF93908"/>Smile, ſmile, my dear Charley, for you may depend,</l>
+                     <pb n="102" facs="unknown:020461_0053_0FAF11772EF93908"/>Smile, ſmile, my dear Charley, for you may depend,</l>
                   <l>That Heav'n ſhall your innocence ever befriend.</l>
                </lg>
             </div>
             <div n="34" type="song">
-               <pb n="103" facs="tcp:020461_0053_0FAF11772EF93908"/>
+               <pb n="103" facs="unknown:020461_0053_0FAF11772EF93908"/>
                <head>SONG XXXIV.</head>
                <p>
                   <figure/>
@@ -1817,7 +1817,7 @@
                   <l>Huſh, your paſſions into peace.</l>
                </lg>
                <lg n="2">
-                  <pb n="104" facs="tcp:020461_0054_0FAF1178238E2470"/>
+                  <pb n="104" facs="unknown:020461_0054_0FAF1178238E2470"/>
                   <head>II.</head>
                   <l>When the bluſt'ring ſtorms ariſe,</l>
                   <l>See how frightful look the ſkies;</l>
@@ -1839,7 +1839,7 @@
                   <l>Then you fright your friends away.</l>
                </lg>
                <lg n="5">
-                  <pb n="105" facs="tcp:020461_0054_0FAF1178238E2470"/>
+                  <pb n="105" facs="unknown:020461_0054_0FAF1178238E2470"/>
                   <head>V.</head>
                   <l>Then as waters gently flow,</l>
                   <l>When the breezes ſoftly blow;</l>
@@ -1848,7 +1848,7 @@
                </lg>
             </div>
             <div n="35" type="song">
-               <pb n="106" facs="tcp:020461_0055_0FAF1178F473B430"/>
+               <pb n="106" facs="unknown:020461_0055_0FAF1178F473B430"/>
                <head>SONG XXXV.</head>
                <p>
                   <figure/>
@@ -1861,7 +1861,7 @@
                   <l>And as he thought full ſurely.</l>
                </lg>
                <lg n="2">
-                  <pb n="107" facs="tcp:020461_0055_0FAF1178F473B430"/>
+                  <pb n="107" facs="unknown:020461_0055_0FAF1178F473B430"/>
                   <head>II.</head>
                   <l>Many a thoughtleſs fly he caught,</l>
                   <l>And ſoon his fate decided;</l>
@@ -1882,7 +1882,7 @@
                   <l>And ſoon, like many others, ſhe Entangled without feeling.</l>
                </lg>
                <lg n="5">
-                  <pb n="108" facs="tcp:020461_0056_0FAF117B2E6E2F48"/>
+                  <pb n="108" facs="unknown:020461_0056_0FAF117B2E6E2F48"/>
                   <head>V.</head>
                   <l>The Spider from his ſecret cell,</l>
                   <l>Came out with thoughts moſt pleaſing;</l>
@@ -1904,7 +1904,7 @@
                   <l>The Spider died alone.</l>
                </lg>
                <lg n="8">
-                  <pb n="109" facs="tcp:020461_0056_0FAF117B2E6E2F48"/>
+                  <pb n="109" facs="unknown:020461_0056_0FAF117B2E6E2F48"/>
                   <head>VIII.</head>
                   <l>Thus wretches who work other's woe,</l>
                   <l>A while with joy relate;</l>
@@ -1913,7 +1913,7 @@
                </lg>
             </div>
             <div type="poem">
-               <pb facs="tcp:020461_0057_0FAF117C33DFE458"/>
+               <pb facs="unknown:020461_0057_0FAF117C33DFE458"/>
                <head>DIRECTIONS FOR ALL GOOD BOYS AND GIRLS TO FOLLOW.</head>
                <lg n="1">
                   <head>I.</head>
@@ -1924,7 +1924,7 @@
                </lg>
                <lg n="2">
                   <head>
-                     <pb n="111" facs="tcp:020461_0057_0FAF117C33DFE458"/>II.</head>
+                     <pb n="111" facs="unknown:020461_0057_0FAF117C33DFE458"/>II.</head>
                   <l>And when you've ſaid your morn<g ref="char:EOLhyphen"/>ing pray'r,</l>
                   <l>Let cleanlineſs be next your care,</l>
                   <l>Your hair be comb'd, your face and hands</l>
@@ -1938,7 +1938,7 @@
                   <l>But not on other matters, look.</l>
                </lg>
                <lg n="4">
-                  <pb n="112" facs="tcp:020461_0058_0FAF117D95A75D90"/>
+                  <pb n="112" facs="unknown:020461_0058_0FAF117D95A75D90"/>
                   <head>IV.</head>
                   <l>To learning if you will attend,</l>
                   <l>Learning will prove your greateſt friend</l>
@@ -1960,7 +1960,7 @@
                   <l>Till meat be put upon your plate.</l>
                </lg>
                <lg n="7">
-                  <pb n="113" facs="tcp:020461_0058_0FAF117D95A75D90"/>
+                  <pb n="113" facs="unknown:020461_0058_0FAF117D95A75D90"/>
                   <head>VII.</head>
                   <l>Sit upright, never forward lean,</l>
                   <l>From greaſe be ſure that you keep clean;</l>
@@ -1982,7 +1982,7 @@
                   <l>Nor e'er be quarrelſome at play.</l>
                </lg>
                <lg n="10">
-                  <pb n="114" facs="tcp:020461_0059_0FAF117DEC339510"/>
+                  <pb n="114" facs="unknown:020461_0059_0FAF117DEC339510"/>
                   <head>X.</head>
                   <l>Never bear tales, or you will be</l>
                   <l>Hated by all you hear and ſee;</l>
@@ -2004,7 +2004,7 @@
                   <l>The God that made him, did make you.</l>
                </lg>
                <lg n="13">
-                  <pb n="115" facs="tcp:020461_0059_0FAF117DEC339510"/>
+                  <pb n="115" facs="unknown:020461_0059_0FAF117DEC339510"/>
                   <head>XIII.</head>
                   <l>On ſchool-mates never lay the fault,</l>
                   <l>If you have done what you ought not,</l>
@@ -2027,7 +2027,7 @@
                   <l>All that they ſay is for your good.</l>
                </lg>
                <lg n="16">
-                  <pb n="116" facs="tcp:020461_0060_0FAF117EA9491780"/>
+                  <pb n="116" facs="unknown:020461_0060_0FAF117EA9491780"/>
                   <head>XVI.</head>
                   <l>DO you a juſt example take,</l>
                   <l>I'll ways in proper time forſake,</l>
@@ -2049,7 +2049,7 @@
                   <l>No doubt an infant ſhall be bleſt.</l>
                </lg>
                <lg n="19">
-                  <pb n="117" facs="tcp:020461_0060_0FAF117EA9491780"/>
+                  <pb n="117" facs="unknown:020461_0060_0FAF117EA9491780"/>
                   <head>XIX.</head>
                   <l>In ev'ry caſe let children own</l>
                   <l>They have no will that is their own;</l>
@@ -2065,7 +2065,7 @@
                </lg>
             </div>
             <div type="conclusion">
-               <pb n="118" facs="tcp:020461_0061_0FAF117F789703C8"/>
+               <pb n="118" facs="unknown:020461_0061_0FAF117F789703C8"/>
                <head>THE CONCLUSION.</head>
                <lg>
                   <l>READ o'er theſe pleaſing lines with care, my dear,</l>
@@ -2074,7 +2074,7 @@
                   <l>Both to divert you, and improve your mind.</l>
                   <l>Whatever you in earlieſt days are taught,</l>
                   <l>
-                     <pb n="119" facs="tcp:020461_0061_0FAF117F789703C8"/>Is thus, by care, to juſt perfection brought;</l>
+                     <pb n="119" facs="unknown:020461_0061_0FAF117F789703C8"/>Is thus, by care, to juſt perfection brought;</l>
                   <l>Yet ſtill <hi>amuſement</hi> we ſhall here be<g ref="char:EOLhyphen"/>ſtow,</l>
                   <l>For with amuſement ſhould in<g ref="char:EOLhyphen"/>ſtruction go.</l>
                   <l>Our verſes are contriv'd for ev'ry ear,</l>
@@ -2086,7 +2086,7 @@
                   </l>
                   <l>Then let not any thing prevent your claim,</l>
                   <l>
-                     <pb n="120" facs="tcp:020461_0062_0FAF1180355CB0B8"/>To take what leads you ſtill to worth and fame.</l>
+                     <pb n="120" facs="unknown:020461_0062_0FAF1180355CB0B8"/>To take what leads you ſtill to worth and fame.</l>
                   <l>In every line a moral fair is ſhewn,</l>
                   <l>Children may make that moral ſtill their own;</l>
                   <l>And, if they take it, ſhall in future days,</l>
